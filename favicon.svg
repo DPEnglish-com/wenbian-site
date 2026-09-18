@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#fcfcfa"/>
+  <rect x="6.5" y="6.5" width="51" height="51" rx="9" fill="none" stroke="#44603b" stroke-width="2"/>
+  <text x="32" y="44" text-anchor="middle" font-size="34" font-weight="600" fill="#262923"
+        font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">问</text>
+</svg>
