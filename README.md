@@ -4,7 +4,7 @@
 
 - 纯静态产物，由 `wenbian` 私有仓库的 `apps/site` 构建（`pnpm build:site`）后发布到这里
 - 不要在本仓库直接改页面：源码在私有仓库的 `packages/landing`，两处会不一致
-- `downloads/` 放 Android 包；`provider-icons/` 是模型供应商标识
+- 仓库根只放构建产物：`index.html`、`assets/`（打包后的 JS/CSS）、`favicon.svg`；`downloads/` 已清空并移除（旧 BYOK Android 内测包已下架，不再公开分发），本仓库也没有 `provider-icons/` 目录
 
 ## 更新方式
 
